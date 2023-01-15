@@ -1,0 +1,2 @@
+body{display:grid;min-height:100vh;place-items:center}html{font-size:small}.center-div{display:grid;grid-template-columns:repeat(2,1fr);width:80vw}.left-side,.right-side{border:1px solid #000;font-size:25px;height:80vh;padding-left:2px}.right-side{height:80.4vh}p{margin-top:2px}h1,h2,h3,h4,p{margin:0}.left-side{background-color:#000;color:#f0f8ff}h1.heading{color:crimson;font-family:system-ui;padding-bottom:1rem;text-align:center;text-decoration:underline}@media (max-width:768px){.center-div{width:90vw}.right-side{height:80.4vh}}
+/*# sourceMappingURL=main.39cdd773.css.map*/
